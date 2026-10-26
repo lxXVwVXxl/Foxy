@@ -1,0 +1,1 @@
+https://pythonru.com/uroki/peremennye-v-python-uroki-dlja-nachinajushhih
